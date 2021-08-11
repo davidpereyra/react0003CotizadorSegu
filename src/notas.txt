@@ -1,0 +1,22 @@
+Styled Components
+
+Para los estilos con sintaxis del estilo de sass
+combina CSS con JS
+
+https://emotion.sh/docs/introduction
+npm i @emotion/styled @emotion/react
+
+
+como no tenia buen autocompletado instalo extension
+vscode-styled-components
+styled-components-snippets
+Styled-Snippets
+
+
+
+
+
+
+
+
+
